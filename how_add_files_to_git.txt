@@ -1,0 +1,103 @@
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks
+$ git init
+Initialized empty Git repository in C:/ba_tasks/.git/
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks (master)
+$ git clone https://github.com/kulkarnipankaja/BA_Tasks_Done.git
+Cloning into 'BA_Tasks_Done'...
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), done.
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        BA_Tasks_Done/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks (master)
+$ ls
+BA_Tasks_Done/
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks (master)
+$ cd BA_Tasks_Done/
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$ ls
+README.md
+
+-- copied 5 files from other folder
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$ ls
+ README.md                        TASK_2_RAD.rtf  'TASK_4 Screenshots of Scrum and Kanban.rtf'
+'TASK_2_PRODUCT vs SERVICE.rtf'   TASK_3.rtf      'TASK_6 git_init and fork.rtf'
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        TASK_2_PRODUCT vs SERVICE.rtf
+        TASK_2_RAD.rtf
+        TASK_3.rtf
+        TASK_4 Screenshots of Scrum and Kanban.rtf
+        TASK_6 git_init and fork.rtf
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$ git add --all
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   TASK_2_PRODUCT vs SERVICE.rtf
+        new file:   TASK_2_RAD.rtf
+        new file:   TASK_3.rtf
+        new file:   TASK_4 Screenshots of Scrum and Kanban.rtf
+        new file:   TASK_6 git_init and fork.rtf
+
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$ git commit -m 'Tasks commmited'
+[master 76041d2] Tasks commmited
+ 5 files changed, 814290 insertions(+)
+ create mode 100644 TASK_2_PRODUCT vs SERVICE.rtf
+ create mode 100644 TASK_2_RAD.rtf
+ create mode 100644 TASK_3.rtf
+ create mode 100644 TASK_4 Screenshots of Scrum and Kanban.rtf
+ create mode 100644 TASK_6 git_init and fork.rtf
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$ git push
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 2.22 MiB | 1.19 MiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/kulkarnipankaja/BA_Tasks_Done.git
+   3b795a6..76041d2  master -> master
+
+pankaja@DESKTOP-986UGOM MINGW64 /c/ba_tasks/BA_Tasks_Done (master)
+$
