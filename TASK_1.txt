@@ -1,0 +1,32 @@
+
+
+TASK 1:  5 most commonly faced challenges by BA
+1)Challenge 1:conflict among stakeholders.
+2)Challenge 2:Lack of clarity :Massive Amount of Information is processed in a short period of time 
+leading to over-analyzing which includes 
+C2.1)Asks questions repeatedly to get clarification
+C2.2)Seeks to confirm requirements again and again
+C2.3)Stretches the analysis phase instead of approaching it iteratively
+C2.4)Develops more artifacts and models than required.
+solution:The BA should filter out unnecessary detail and present only the information that is necessary to produce a working solution.
+3)Challenge 3:Business Analysts often have to work with knowledge and skills.
+C3.1)How does the BA with a technical background attain an acceptable level of competency in the business domain? 
+C3.2)How does the BA with a business background attain some level of competency in the technical domain? 
+C3.3)How does the BA keep up with expected changes when moving from a structured systems analysis & design environment to one based on object-oriented analysis and design? 
+C3.4)How does the BA manage the transition from a Waterfall to an Agile/Iterative methodology? 
+solution: BAs should continually strive from day one,The challenge is real but can be surmounted with time, training and experience.
+4)challenge 4:Getting Stakeholders To Make Time
+C4.1)to get stakeholders to participate in UAT sessions
+C4.2) dealing with irregular attendance at elicitation sessions and cancelled meetings. 
+C4,3)Where users are not committed to the project, the BA has to spend extra time and effort trying to getting them to do their bit.
+Solution:   Involving functional managers even if it is to a small degree, team members become more willing to fall in line.
+
+
+TASK 2:what are the top 6 reasons for project failure and consider how this role can mitigate these risks?
+
+
+TASK 3:who is a stakeholder?
+Groups without whose support the organization would cease to exist.
+--Business sponsor
+--External custorems /End users
+--Internal Teams/Developer,Testers,Ptoject managers etc
