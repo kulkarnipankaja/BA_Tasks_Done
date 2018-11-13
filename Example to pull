@@ -1,0 +1,6 @@
+This is file to pull request 
+Open a Pull Request on GitHub
+Push your commits to the remote, and set a tracking branch. Type: git push -u origin <BRANCH-NAME>
+Enter your GitHub username and password, if prompted to do so.
+Create a Pull Request on GitHub.
+Fill out the body of the Pull Request with information about the changes you're introducing.
